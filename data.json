@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "message": "Data Synced Successfully",
+  "customers": [
+    {
+      "id": 1,
+      "name": "Ali",
+      "city": "Lahore",
+      "phone": "03001234567"
+    },
+    {
+      "id": 2,
+      "name": "Ahmed",
+      "city": "Karachi",
+      "phone": "03111234567"
+    },
+    {
+      "id": 3,
+      "name": "Usman",
+      "city": "Islamabad",
+      "phone": "03211234567"
+    }
+  ]
+}
