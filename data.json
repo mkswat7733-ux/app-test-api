@@ -2,7 +2,8 @@
   {
     "id": 1,
     "name": "Ali",
-    "city": "Lahore",
+    "Address": "Lahore",
     "phone": "03001234567"
+    "outstanding" : 1500
   }
 
