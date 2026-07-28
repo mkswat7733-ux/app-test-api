@@ -1,14 +1,8 @@
-[
+
   {
     "id": 1,
     "name": "Ali",
     "city": "Lahore",
     "phone": "03001234567"
-  },
-  {
-    "id": 2,
-    "name": "Ahmed",
-    "city": "Karachi",
-    "phone": "03111234567"
   }
-]
+
