@@ -1,78 +1,21 @@
 {
-  "success": true,
-  "message": "Customers synchronized successfully.",
-  "last_sync": "2026-07-28T10:45:00",
-  "total_customers": 10,
-  "customers": [
-    {
-      "id": "CUST-001",
-      "name": "Ali Ahmed",
-      "address": "Model Town, Lahore",
-      "mobile": "03001234567",
-      "outstanding": 12500
-    },
-    {
-      "id": "CUST-002",
-      "name": "Muhammad Usman",
-      "address": "Johar Town, Lahore",
-      "mobile": "03111234567",
-      "outstanding": 0
-    },
-    {
-      "id": "CUST-003",
-      "name": "Ahmed Raza",
-      "address": "DHA Phase 6, Lahore",
-      "mobile": "03211234567",
-      "outstanding": 5400
-    },
-    {
-      "id": "CUST-004",
-      "name": "Bilal Khan",
-      "address": "Gulshan-e-Iqbal, Karachi",
-      "mobile": "03331234567",
-      "outstanding": 980
-    },
-    {
-      "id": "CUST-005",
-      "name": "Hassan Ali",
-      "address": "Satellite Town, Rawalpindi",
-      "mobile": "03451234567",
-      "outstanding": 0
-    },
-    {
-      "id": "CUST-006",
-      "name": "Zain Abbas",
-      "address": "University Road, Peshawar",
-      "mobile": "03051234567",
-      "outstanding": 21500
-    },
-    {
-      "id": "CUST-007",
-      "name": "Umer Farooq",
-      "address": "Cantt, Multan",
-      "mobile": "03151234567",
-      "outstanding": 3500
-    },
-    {
-      "id": "CUST-008",
-      "name": "Abdullah Khan",
-      "address": "Jinnah Road, Quetta",
-      "mobile": "03251234567",
-      "outstanding": 0
-    },
-    {
-      "id": "CUST-009",
-      "name": "Hamza Tariq",
-      "address": "G-11, Islamabad",
-      "mobile": "03351234567",
-      "outstanding": 7600
-    },
-    {
-      "id": "CUST-010",
-      "name": "Saad Malik",
-      "address": "People's Colony, Faisalabad",
-      "mobile": "03451230000",
-      "outstanding": 1890
-    }
-  ]
+  "id" : 1,
+  "name" : "Maaz Khan",
+  "address" : "Swat",
+  "mobile": "03451230000",
+  "outstanding": 7600
+}
+{
+  "id" : 1,
+  "name" : "Maaz Khan",
+  "address" : "Swat",
+  "mobile": "03451230000",
+  "outstanding": 7600
+}
+{
+  "id" : 1,
+  "name" : "Maaz Khan",
+  "address" : "Swat",
+  "mobile": "03451230000",
+  "outstanding": 7600
 }
