@@ -5,19 +5,19 @@
     {
       "id": 1,
       "name": "Ali",
-      "city": "Lahore",
+      "address": "Lahore",
       "phone": "03001234567"
     },
     {
       "id": 2,
       "name": "Ahmed",
-      "city": "Karachi",
+      "address": "Karachi",
       "phone": "03111234567"
     },
     {
       "id": 3,
       "name": "Usman",
-      "city": "Islamabad",
+      "address": "Islamabad",
       "phone": "03211234567"
     }
   ]
