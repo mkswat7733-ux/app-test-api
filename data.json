@@ -1,21 +1,14 @@
-{
-  "id" : 1,
-  "name" : "Maaz Khan",
-  "address" : "Swat",
-  "mobile": "03451230000",
-  "outstanding": 7600
-}
-{
-  "id" : 2,
-  "name" : "Saeed",
-  "address" : "Swat",
-  "mobile": "03451230000",
-  "outstanding": 7600
-}
-{
-  "id" : 3,
-  "name" : "Junaid Khan",
-  "address" : "Swat",
-  "mobile": "03451230000",
-  "outstanding": 7600
-}
+[
+  {
+    "id": 1,
+    "name": "Ali",
+    "city": "Lahore",
+    "phone": "03001234567"
+  },
+  {
+    "id": 2,
+    "name": "Ahmed",
+    "city": "Karachi",
+    "phone": "03111234567"
+  }
+]
