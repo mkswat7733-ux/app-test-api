@@ -1,0 +1,76 @@
+{
+  "success": true,
+  "last_sync": "2026-07-29 10:45:00",
+  "customers": [
+    {
+      "customer_id": "CUS-0001",
+      "name": "Ali Ahmed",
+      "address": "Model Town, Lahore",
+      "mobile": "03001234567",
+      "outstanding": 12500
+    },
+    {
+      "customer_id": "CUS-0002",
+      "name": "Ahmed Raza",
+      "address": "Johar Town, Lahore",
+      "mobile": "03111234567",
+      "outstanding": 0
+    },
+    {
+      "customer_id": "CUS-0003",
+      "name": "Muhammad Bilal",
+      "address": "DHA Phase 5, Lahore",
+      "mobile": "03211234567",
+      "outstanding": 3500
+    },
+    {
+      "customer_id": "CUS-0004",
+      "name": "Usman Khan",
+      "address": "Cantt, Rawalpindi",
+      "mobile": "03331234567",
+      "outstanding": 980
+    },
+    {
+      "customer_id": "CUS-0005",
+      "name": "Hassan Ali",
+      "address": "Gulshan-e-Iqbal, Karachi",
+      "mobile": "03451234567",
+      "outstanding": 17500
+    },
+    {
+      "customer_id": "CUS-0006",
+      "name": "Zain Abbas",
+      "address": "Satellite Town, Gujranwala",
+      "mobile": "03011223344",
+      "outstanding": 4200
+    },
+    {
+      "customer_id": "CUS-0007",
+      "name": "Hamza Tariq",
+      "address": "Bahria Town, Islamabad",
+      "mobile": "03121223344",
+      "outstanding": 0
+    },
+    {
+      "customer_id": "CUS-0008",
+      "name": "Abdullah Shah",
+      "address": "University Road, Peshawar",
+      "mobile": "03221223344",
+      "outstanding": 8900
+    },
+    {
+      "customer_id": "CUS-0009",
+      "name": "Saad Malik",
+      "address": "People Colony, Faisalabad",
+      "mobile": "03321223344",
+      "outstanding": 1200
+    },
+    {
+      "customer_id": "CUS-0010",
+      "name": "Irfan Ahmed",
+      "address": "Jinnah Road, Quetta",
+      "mobile": "03421223344",
+      "outstanding": 6400
+    }
+  ]
+}
