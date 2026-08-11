@@ -1,5 +1,7 @@
-{
-  "id": "message_001",
-  "phone": "03169759244",
-  "message": "Hello, this is a test message."
+{ "success": true, 
+  "messages": [ { "id": "MSG001",
+  "mobile": "+923001234567", 
+  "message": "Hello, this is a test message." 
+  } 
+  ] 
 }
