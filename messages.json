@@ -1,7 +1,9 @@
 { "success": true, 
-  "messages": [ { "id": "MSG001",
-  "mobile": "03443832622", 
-  "message": "Hello, this is a test message." 
-  } 
+  "messages":
+  [ 
+     { "id": "MSG001",
+        "mobile": "03443832622", 
+        "message": "Hello, this is a test message." 
+     } 
   ] 
 }
