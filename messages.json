@@ -6,22 +6,7 @@
   },
   {
     "id": "MSG002",
-    "phone_number": "03007654321",
+    "phone_number": "03409386699",
     "message": "Your order has been received successfully."
-  },
-  {
-    "id": "MSG003",
-    "phone_number": "03111234567",
-    "message": "Your appointment has been confirmed."
-  },
-  {
-    "id": "MSG004",
-    "phone_number": "03221234567",
-    "message": "Thank you for using our company service."
-  },
-  {
-    "id": "MSG005",
-    "phone_number": "03331234567",
-    "message": "This is another test message."
   }
 ]
