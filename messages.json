@@ -1,12 +1,10 @@
 [
-  {
-    "id": "MSG001",
-    "phone_number": "03480004398",
-    "message": "Hi there! This is a test message from our company."
-  },
-  {
-    "id": "MSG002",
-    "phone_number": "03409386699",
-    "message": "Your order has been received successfully."
-  }
+    {
+        "number": "+92 340 1888891",
+        "message": "Assalam-o-Alaikum! This is a test message from Auto SMS Sender."
+    },
+    {
+        "number": "+92 3409386699",
+        "message": "Hello! Your OTP code is 123456. Please verify your account."
+    }
 ]
