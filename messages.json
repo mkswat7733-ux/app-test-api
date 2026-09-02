@@ -1,8 +1,22 @@
 {
-  "data": [
+  "messages": [
     {
-      "phone_number": "03409386699",
-      "message": "Hello How are you"
+      "id": "1001",
+      "mobile": "03409386699",
+      "message": "Your order has been received. Thank you for shopping with us.",
+      "status": "pending"
+    },
+    {
+      "id": "1002",
+      "mobile": "03401888891",
+      "message": "Your delivery is ready and will arrive today.",
+      "status": "pending"
+    },
+    {
+      "id": "1003",
+      "mobile": "0446668488",
+      "message": "This is a test SMS from SMS Auto Sender app.",
+      "status": "pending"
     }
   ]
 }
