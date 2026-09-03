@@ -3,25 +3,25 @@
     {
       "id": "1001",
       "mobile": "03401888891",
-      "message": "Your order has been received. Thank you for shopping with us.",
+      "message": "SMS Successfully sent.",
       "status": "pending"
     },
     {
       "id": "1002",
       "mobile": "03409386699",
-      "message": "Your delivery is ready and will arrive today.",
+      "message": "SMS Successfully sent.",
       "status": "pending"
     },
     {
       "id": "1003",
       "mobile": "03219989733",
-      "message": "Your delivery is ready and will arrive today.",
+      "message": "SMS Successfully sent.",
       "status": "pending"
     },
     {
       "id": "1004",
       "mobile": "03446668488",
-      "message": "This is a test SMS from SMS Auto Sender app.",
+      "message": "SMS Successfully sent.",
       "status": "pending"
     }
   ]
